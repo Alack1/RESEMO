@@ -1,6 +1,6 @@
 # RESEMO
 
-🔥**Note**: This dataset is about to be released. Please stay tuned to this page for the latest updates.
+🔥**Note**: This dataset is about to be released. If you need to use our dataset, please send an email to xiechenfei@ustc.mail.edu.cn to obtain it.
 
 ## Dataset Overview
 
