@@ -5,4 +5,7 @@
 ## Dataset Overview
 
 - **Dataset Name**: RESEMO
+- <div align="center">
+    ![本地图像](./image.png "本地图像标题")
+</div>
 - **Version**: V0
